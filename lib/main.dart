@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const SimplePaintApp());
-} 
+}  
 
 class SimplePaintApp extends StatelessWidget {
   const SimplePaintApp({super.key});
